@@ -162,8 +162,7 @@ def sherlock(
     tor=False,
     unique_tor=False,
     proxy=None,
-    timeout=60,
-):
+    timeout=60,):
     """Run Sherlock Analysis.
 
     Checks for existence of username on various social media sites.
